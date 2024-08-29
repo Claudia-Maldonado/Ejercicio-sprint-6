@@ -4,7 +4,7 @@ import streamlit as st
 
 car_data = pd.read_csv('vehicles_us.csv')
 print (car_data)
-
+st.header('Venta de Vehículos')
 hist_button = st.button('Construir Histograma')
 scatter_plot_button = st.button('Construir Gráfico de Dispersión')
 
