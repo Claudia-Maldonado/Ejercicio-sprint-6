@@ -1,2 +1,3 @@
 # Ejercicio-sprint-6
-Ejercicios
+Proyecto final del Sprint 6
+Con anuncio de venta de vehículos se creará y gestionará en entornos vitruales de Python, desarrollo web y su despliegue en un servicio en la nube.
